@@ -1,0 +1,16 @@
+/* body  */
+.banner-content{
+    font-family: 'lato';
+    display: flex; 
+    width: 700px;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+.banner-img{
+    padding: 50px;
+    display: flex;
+    width: 600px;
+    height: 700px;
+    flex-shrink: 0;
+
+}
